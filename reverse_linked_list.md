@@ -1,5 +1,7 @@
 # Reverse Linked List
 
+> Given the head of a singly linked list, reverse the list, and return the reversed list.
+
 > Runtime 0 ms | Memory 14.16 MB
 
 ```python
