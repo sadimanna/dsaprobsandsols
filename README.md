@@ -48,9 +48,10 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 Every markdown file in this repository follows a consistent structure to ensure clarity:
 1. **Problem Statement:** A brief description of the challenge.
 2. **Approach:** Explanation of the logic.
-3. **Complexity:** * Time Complexity: $O(n)$
+3. **Complexity:**
+    * Time Complexity: $O(n)$
     * Space Complexity: $O(1)$
-4. **Code:** Syntax-highlighted implementation.
+5. **Code:** Syntax-highlighted implementation.
 
 ---
 
@@ -58,4 +59,5 @@ Every markdown file in this repository follows a consistent structure to ensure 
 To run the solutions locally:
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/sadimanna/dsaprobsandsols.git](https://github.com/sadimanna/dsaprobsandsols.git)
+   git clone https://github.com/sadimanna/dsaprobsandsols.git
+   ```
