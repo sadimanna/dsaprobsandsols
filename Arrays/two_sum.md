@@ -7,21 +7,18 @@
 > Runtime 0ms | Memory 13.17MB
 
 ```python
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        nmap = {}
-        for i in range(len(nums)):
-            rem = target - nums[i]
-            # print(rem)
-            if rem not in nmap:
-                nmap[nums[i]] = i
-            else:
-                return [nmap[rem], i]
-            # print(nmap)
-        return None
+def twoSum(self, nums, target):
+    """
+    :type nums: List[int]
+    :type target: int
+    :rtype: List[int]
+    """
+    nmap = {}
+    for i in range(len(nums)):
+        rem = target - nums[i]
+        if rem not in nmap:
+            nmap[nums[i]] = i
+        else:
+            return [nmap[rem], i]
+    return None
 ```
