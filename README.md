@@ -2,7 +2,7 @@
 
 Welcome to my DSA repository! This project serves as a comprehensive collection of algorithmic problems I've solved, categorized by data structure and technique. 
 
-**[🌐 View the GitHub Page](https://your-username.github.io/your-repo-name/)**
+**[🌐 View the GitHub Page](https://sadimanna.github.io/dsaprobsandsols/)**
 
 ---
 
@@ -10,8 +10,8 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 
 | Category | Solved | Difficulty (Avg) |
 | :--- | :---: | :---: |
-| 🟢 Arrays & Strings | 0 | Easy |
-| 🟡 Linked Lists | 0 | Medium |
+| 🟢 Arrays & Strings | 1 | Easy |
+| 🟡 Linked Lists | 1 | Medium |
 | 🔴 Dynamic Programming | 0 | Hard |
 | 🟣 Trees & Graphs | 0 | Medium |
 
@@ -47,7 +47,7 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 ## 📝 Solution Template
 Every markdown file in this repository follows a consistent structure to ensure clarity:
 1. **Problem Statement:** A brief description of the challenge.
-2. **Approach:** Explanation of the logic (Brute Force vs. Optimized).
+2. **Approach:** Explanation of the logic.
 3. **Complexity:** * Time Complexity: $O(n)$
     * Space Complexity: $O(1)$
 4. **Code:** Syntax-highlighted implementation.
@@ -58,4 +58,4 @@ Every markdown file in this repository follows a consistent structure to ensure 
 To run the solutions locally:
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/sadimanna/dsaprobsandsols.git](https://github.com/sadimanna/dsaprobsandsols.git)
