@@ -21,10 +21,10 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 
 ### 🔹 Linear Data Structures
 * **Arrays**
-    * [Two Sum](./Arrays/two-sum.md)
+    * [Two Sum](./Arrays/two_sum.md)
     * [Best Time to Buy and Sell Stock](./Arrays/buy-sell-stock.md)
 * **Linked Lists**
-    * [Reverse Linked List](./Linked-Lists/reverse-linked-list.md)
+    * [Reverse Linked List](./Linked-Lists/reverse_linked_list.md)
     * [Merge Two Sorted Lists](./Linked-Lists/merge-lists.md)
 
 ### 🔸 Non-Linear Data Structures
