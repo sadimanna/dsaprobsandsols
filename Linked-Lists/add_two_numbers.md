@@ -13,28 +13,27 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution(object):
-    def addTwoNumbers(self, l1, l2):
-        """
-        :type l1: Optional[ListNode]
-        :type l2: Optional[ListNode]
-        :rtype: Optional[ListNode]
-        """
-        carry = 0
-        res = ListNode()
-        temp = res
-        while l1 or l2:
-            curr1 = l1.val if l1 else 0
-            curr2 = l2.val if l2 else 0
-            val = curr1 + curr2 + carry
-            carry = val//10
-            val = val%10
-            temp.next = ListNode(val, None)
-            temp = temp.next
-            l1 = l1.next if l1 else None
-            l2 = l2.next if l2 else None
-        if carry:
-            temp.next = ListNode(carry,  None)
-            
-        return res.next
+def addTwoNumbers(l1, l2):
+    """
+    :type l1: Optional[ListNode]
+    :type l2: Optional[ListNode]
+    :rtype: Optional[ListNode]
+    """
+    carry = 0
+    res = ListNode()
+    temp = res
+    while l1 or l2:
+        curr1 = l1.val if l1 else 0
+        curr2 = l2.val if l2 else 0
+        val = curr1 + curr2 + carry
+        carry = val//10
+        val = val%10
+        temp.next = ListNode(val, None)
+        temp = temp.next
+        l1 = l1.next if l1 else None
+        l2 = l2.next if l2 else None
+    if carry:
+        temp.next = ListNode(carry,  None)
+        
+    return res.next
 ```
