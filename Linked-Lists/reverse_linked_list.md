@@ -11,7 +11,7 @@ class ListNode(object):
         self.val = val
         self.next = next
 
-def reverseList(self, head):
+def reverseList(head):
     """
     :type head: Optional[ListNode]
     :rtype: Optional[ListNode]
