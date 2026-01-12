@@ -10,7 +10,8 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 
 | Category | Solved | Difficulty |
 | :--- | :---: | :---: |
-| 🟢 Arrays & Strings | 1 | Easy: 1; Medium: 0; Hard: 0 |
+| 🟢 Arrays | 1 | Easy: 1; Medium: 0; Hard: 0 |
+| 🟢 Strings | 1 | Easy: 0; Medium: 1; Hard: 0 |
 | 🟡 Linked Lists | 2 | Easy: 2; Medium: 0; Hard: 0 |
 | 🔴 Dynamic Programming | 0 | Easy: 0; Medium: 0; Hard: 0 |
 | 🟣 Trees & Graphs | 0 | Easy: 0; Medium: 0; Hard: 0 |
@@ -23,6 +24,8 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 * **Arrays**
     * [Two Sum](./Arrays/two_sum.md)
     * [Best Time to Buy and Sell Stock](./Arrays/buy-sell-stock.md)
+* **Strings**
+    * [Longest Substring without Repeating Characters](./Strings/longest_substring_wo_repchar.md)
 * **Linked Lists**
     * [Reverse Linked List](./Linked-Lists/reverse_linked_list.md)
     * [Add Two Numbers](./Linked-Lists/add_two_numbers.md)
