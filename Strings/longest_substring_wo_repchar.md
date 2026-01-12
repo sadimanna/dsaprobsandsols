@@ -1,3 +1,5 @@
+# Longest Substring without Repeating Characters
+
 > Given a string `s`, find the length of the longest substring without duplicate characters.
 
 > Runtime 12ms | Memory 12.66MB
