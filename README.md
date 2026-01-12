@@ -8,12 +8,12 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 
 ## 📊 Progress Dashboard
 
-| Category | Solved | Difficulty (Avg) |
+| Category | Solved | Difficulty |
 | :--- | :---: | :---: |
-| 🟢 Arrays & Strings | 1 | Easy |
-| 🟡 Linked Lists | 1 | Medium |
-| 🔴 Dynamic Programming | 0 | Hard |
-| 🟣 Trees & Graphs | 0 | Medium |
+| 🟢 Arrays & Strings | 1 | Easy: 0; Medium: 0; Hard: 0 |
+| 🟡 Linked Lists | 2 | Easy: 2; Medium: 0; Hard: 0 |
+| 🔴 Dynamic Programming | 0 | Easy: 0; Medium: 0; Hard: 0 |
+| 🟣 Trees & Graphs | 0 | Easy: 0; Medium: 0; Hard: 0 |
 
 ---
 
@@ -25,6 +25,7 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
     * [Best Time to Buy and Sell Stock](./Arrays/buy-sell-stock.md)
 * **Linked Lists**
     * [Reverse Linked List](./Linked-Lists/reverse_linked_list.md)
+    * [Add Two Numbers](./Linked-Lists/add_two_numbers.md)
     * [Merge Two Sorted Lists](./Linked-Lists/merge-lists.md)
 
 ### 🔸 Non-Linear Data Structures
