@@ -10,7 +10,7 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 
 | Category | Solved | Difficulty |
 | :--- | :---: | :---: |
-| 🟢 Arrays & Strings | 1 | Easy: 0; Medium: 0; Hard: 0 |
+| 🟢 Arrays & Strings | 1 | Easy: 1; Medium: 0; Hard: 0 |
 | 🟡 Linked Lists | 2 | Easy: 2; Medium: 0; Hard: 0 |
 | 🔴 Dynamic Programming | 0 | Easy: 0; Medium: 0; Hard: 0 |
 | 🟣 Trees & Graphs | 0 | Easy: 0; Medium: 0; Hard: 0 |
