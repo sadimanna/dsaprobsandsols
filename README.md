@@ -24,7 +24,7 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 ### 🔹 Linear Data Structures
 * **Arrays**
     * [Two Sum](./Arrays/two_sum.md)
-    * [Best Time to Buy and Sell Stock](./Arrays/buy-sell-stock.md)
+    * [Longest Common Prefix](./Arrays/longest_common_prefix.md)
 * **Strings**
     * [Longest Substring without Repeating Characters](./Strings/longest_substring_wo_repchar.md)
 * **Math**
