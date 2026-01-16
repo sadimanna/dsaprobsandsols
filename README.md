@@ -11,7 +11,7 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 | Category | Solved | Difficulty |
 | :--- | :---: | :---: |
 | 🟢 Arrays | 1 | Easy: 1; Medium: 0; Hard: 0 |
-| 🟢 Strings | 1 | Easy: 0; Medium: 1; Hard: 0 |
+| 🟢 Strings | 1 | Easy: 1; Medium: 1; Hard: 0 |
 | 🟢 Math | 1 | Easy: 1; Medium: 0; Hard: 0 |
 | 🟡 Linked Lists | 3 | Easy: 3; Medium: 0; Hard: 0 |
 | 🔴 Dynamic Programming | 0 | Easy: 0; Medium: 0; Hard: 0 |
@@ -27,6 +27,7 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
     * [Longest Common Prefix](./Arrays/longest_common_prefix.md)
 * **Strings**
     * [Longest Substring without Repeating Characters](./Strings/longest_substring_wo_repchar.md)
+    * [Valid Parenthesis](./Strings/valid_parenthesis.md)
 * **Math**
     * [Palindrome Number](./Math/palindrome_number.md)
 * **Linked Lists**
