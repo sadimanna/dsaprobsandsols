@@ -25,7 +25,7 @@ If all assertions pass, then your solution will be accepted.
 
 ```python
 def removeDuplicates(self, nums: List[int]) -> int:
-    nums[:] = set(nums)
+    nums[:] = sorted(set(nums))
     return len(nums)
 
 ```
