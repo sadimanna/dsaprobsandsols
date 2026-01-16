@@ -26,6 +26,7 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
     * [Two Sum](./Arrays/two_sum.md)
     * [Longest Common Prefix](./Arrays/longest_common_prefix.md)
     * [Remove Duplicates from Sorted Array](./Arrays/remove_dup_from_sorted_arr.md)
+    * [Remove Element](./Arrays/remove_element.md)
 * **Strings**
     * [Longest Substring without Repeating Characters](./Strings/longest_substring_wo_repchar.md)
     * [Valid Parenthesis](./Strings/valid_parenthesis.md)
