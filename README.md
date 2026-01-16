@@ -12,6 +12,7 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 | :--- | :---: | :---: |
 | 🟢 Arrays | 1 | Easy: 1; Medium: 0; Hard: 0 |
 | 🟢 Strings | 1 | Easy: 0; Medium: 1; Hard: 0 |
+| 🟢 Math | 1 | Easy: 1; Medium: 0; Hard: 0 |
 | 🟡 Linked Lists | 3 | Easy: 3; Medium: 0; Hard: 0 |
 | 🔴 Dynamic Programming | 0 | Easy: 0; Medium: 0; Hard: 0 |
 | 🟣 Trees & Graphs | 0 | Easy: 0; Medium: 0; Hard: 0 |
@@ -26,6 +27,8 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
     * [Best Time to Buy and Sell Stock](./Arrays/buy-sell-stock.md)
 * **Strings**
     * [Longest Substring without Repeating Characters](./Strings/longest_substring_wo_repchar.md)
+* **Math**
+    * [Palindrome Number](./Math/palindrome_number.md)
 * **Linked Lists**
     * [Reverse Linked List](./Linked-Lists/reverse_linked_list.md)
     * [Add Two Numbers](./Linked-Lists/add_two_numbers.md)
