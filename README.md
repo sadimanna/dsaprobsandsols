@@ -11,7 +11,7 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 | Category | Solved | Difficulty |
 | :--- | :---: | :---: |
 | 🟢 Arrays | 5 | Easy: 5; Medium: 0; Hard: 0 |
-| 🟢 Strings | 3 | Easy: 2; Medium: 1; Hard: 0 |
+| 🟢 Strings | 4 | Easy: 3; Medium: 1; Hard: 0 |
 | 🟢 Math | 1 | Easy: 1; Medium: 0; Hard: 0 |
 | 🟡 Linked Lists | 3 | Easy: 3; Medium: 0; Hard: 0 |
 | 🔴 Dynamic Programming | 0 | Easy: 0; Medium: 0; Hard: 0 |
@@ -32,6 +32,7 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
     * [Longest Substring without Repeating Characters](./Strings/longest_substring_wo_repchar.md)
     * [Valid Parenthesis](./Strings/valid_parenthesis.md)
     * [Find the Index of the First Occurence in a String](./Strings/find_first_occurence.md)
+    * [Length of Last Word](./Strings/len_last_word.md)
 * **Math**
     * [Palindrome Number](./Math/palindrome_number.md)
 * **Linked Lists**
