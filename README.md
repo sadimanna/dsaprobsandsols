@@ -10,7 +10,7 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
 
 | Category | Solved | Difficulty |
 | :--- | :---: | :---: |
-| 🟢 Arrays | 4 | Easy: 4; Medium: 0; Hard: 0 |
+| 🟢 Arrays | 5 | Easy: 5; Medium: 0; Hard: 0 |
 | 🟢 Strings | 3 | Easy: 2; Medium: 1; Hard: 0 |
 | 🟢 Math | 1 | Easy: 1; Medium: 0; Hard: 0 |
 | 🟡 Linked Lists | 3 | Easy: 3; Medium: 0; Hard: 0 |
@@ -27,6 +27,7 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
     * [Longest Common Prefix](./Arrays/longest_common_prefix.md)
     * [Remove Duplicates from Sorted Array](./Arrays/remove_dup_from_sorted_arr.md)
     * [Remove Element](./Arrays/remove_element.md)
+    * [Search Insert Position](./Arrays/search_insert_pos.md)
 * **Strings**
     * [Longest Substring without Repeating Characters](./Strings/longest_substring_wo_repchar.md)
     * [Valid Parenthesis](./Strings/valid_parenthesis.md)
@@ -52,6 +53,8 @@ Welcome to my DSA repository! This project serves as a comprehensive collection 
     * [Coin Change](./DP/coin-change.md)
 * **Sliding Window**
     * [Longest Substring Without Repeating Characters](./Sliding-Window/longest-substring.md)
+* **Binary Search**
+    * [Search Insert Position in Log(N) time](./Arrays/search_insert_pos.md)
 
 ---
 
