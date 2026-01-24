@@ -4,6 +4,5 @@
 
 ```python
 def lengthOfLastWord(self, s: str) -> int:
-    splitted_str = s.rstrip(' ').split(' ')
-    return len(splitted_str[-1])
+    return len(s.rstrip(' ').split(' ')[-1])
 ```
